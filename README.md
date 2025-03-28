@@ -2,11 +2,11 @@
 
 ### A little about Me
 
-?? I work as a **Backend Engineer**  
-??? Primarily focused on **Golang** and **Python**  
-?? Currently sharpening the fundamentals: **DSA, System Design, and Backend Engineering**  
-?? Exploring the world of **DevOps** to enhance scalability and automation  
-? Constantly tweaking and optimizing my dev setup for **speed & efficiency**
+- 💻 I work as a **Backend Engineer**
+- 🎯 Primarily focused on **Golang** and **Python**
+- 🚀 Currently sharpening the fundamentals: **DSA, System Design, and Backend Engineering**
+- 👣 Stepping slowly into the world of **DevOps**
+- 🛠️ Constantly tweaking and optimizing my dev setup for **speed & efficiency**
 
 ### Let's connect
 
