@@ -10,43 +10,32 @@
 
 ## Tech Stack
 
-<h2>Languages</h2>
 <p>
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png", title="Golang">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png", title="Python">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/neo4j/neo4j.png", title="Neo4j">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png", title="Redis">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png", title="Elasticsearch">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png", title="PostgreSQL">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png",title="GraphQL">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png", title="gRPC">
+  <img height="50" src="./images/rest.png",title="REST">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png",title="Git">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png",title="Docker">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png",title="Kubernetes">
+  <img height="50" src="./images/kafka.svg",title="Kafka">
+  <img height="50" src="./images/prometheus.svg",title="Prometheus">
+  <img height="50" src="./images/grafana.svg",title="Grafana">
 </p>
 
-<h2>Databases & Storage</h2>
-<p>
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/neo4j/neo4j.png">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png">
-</p>
+## Dev Setup
 
-<h2>Backend & APIs</h2>
-<p>
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png">
-  <img height="50" src="./images/rest.png">
-</p>
-
-<h2>Other Tools</h2>
-<p>
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
-  <img height="50" src="./images/kafka.svg">
-  <img height="50" src="./images/prometheus.svg">
-  <img height="50" src="./images/grafana.svg">
-</p>
-
-<h2>Dev Setup</h2>
 <p>
   <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png">
   <img height="50" src="https://github.com/zellij-org/zellij/blob/f3351f4f75dd1dc43f8808235553593bf87e68a0/assets/logo.png">
   <img height="50" src="./images/yabai.png">
-
 </p>
+
 ## Let's connect
 
 <p>
