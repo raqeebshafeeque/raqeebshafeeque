@@ -1,6 +1,6 @@
 ## Hi there, I am Raqeeb ✌🏻
 
-## A little about Me
+## A little about Me ✨
 
 - 💻 I work as a **Backend Engineer**
 - 🎯 Primarily focused on **Golang** and **Python**
@@ -8,7 +8,7 @@
 - 👣 Stepping slowly into the world of **DevOps**
 - 🛠️ Constantly tweaking and optimizing my dev setup for **speed & efficiency**
 
-## Tech Stack
+## Tech Stack ⚔️
 
 <p>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png", title="Golang">
@@ -28,7 +28,7 @@
   <img height="30" src="./images/grafana.svg",title="Grafana">
 </p>
 
-## Let's connect
+## Let's connect 🤝🏻
 
 <p>
   <a href="https://www.linkedin.com/in/raqeeb-shafeeque"><img src="./images/linkedin.svg", height="30", width="30"/></a>
