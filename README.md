@@ -28,23 +28,23 @@
 <p>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>  
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png"></code>  
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/rest/rest.png"></code>
+  <code><img height="50" src="./images/rest.png"></code>
 </p>
 
 <h2>Other Tools</h2>
 <p>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png"></code>  
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/prometheus/prometheus.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png"></code>
+  <code><img height="50" src="./images/kafka.svg"></code>  
+  <code><img height="50" src="./images/prometheus.svg"></code>  
+  <code><img height="50" src="./images/grafana.svg"></code>  
 </p>
 
 <h2>Dev Setup</h2>
 <p>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png"></code>
   <code><img height="50" src="https://github.com/zellij-org/zellij/blob/f3351f4f75dd1dc43f8808235553593bf87e68a0/assets/logo.png"></code>
-  <code><img height="50" src="https://github.com/koekeishiya/yabai/blob/527b0aa7c509637138d3d7468b63e3a9eb742d30/assets/icon/icon.png"></code>
+  <code><img height="50" src="./images/yabai.png"></code>
 
 </p>
 ## Let's connect
