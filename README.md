@@ -1,6 +1,14 @@
-# Hi there, I am Raqeeb ✌🏻
+## Hi there, I am Raqeeb ✌🏻
 
-## Let's connect
+### A little about Me
+
+?? I work as a **Backend Engineer**  
+??? Primarily focused on **Golang** and **Python**  
+?? Currently sharpening the fundamentals: **DSA, System Design, and Backend Engineering**  
+?? Exploring the world of **DevOps** to enhance scalability and automation  
+? Constantly tweaking and optimizing my dev setup for **speed & efficiency**
+
+### Let's connect
 
 <p>
   <a href="https://www.linkedin.com/in/raqeeb-shafeeque"><img src="./images/linkedin.svg", height="49", width="49"/></a>
