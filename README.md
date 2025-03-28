@@ -12,39 +12,39 @@
 
 <h2>Languages</h2>
 <p>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
 </p>
 
 <h2>Databases & Storage</h2>
 <p>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/neo4j/neo4j.png"></code>  
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/neo4j/neo4j.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png">
 </p>
 
 <h2>Backend & APIs</h2>
 <p>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>  
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png"></code>  
-  <code><img height="50" src="./images/rest.png"></code>
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png">
+  <img height="50" src="./images/rest.png">
 </p>
 
 <h2>Other Tools</h2>
 <p>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
-  <code><img height="50" src="./images/kafka.svg"></code>  
-  <code><img height="50" src="./images/prometheus.svg"></code>  
-  <code><img height="50" src="./images/grafana.svg"></code>  
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
+  <img height="50" src="./images/kafka.svg">
+  <img height="50" src="./images/prometheus.svg">
+  <img height="50" src="./images/grafana.svg">
 </p>
 
 <h2>Dev Setup</h2>
 <p>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png"></code>
-  <code><img height="50" src="https://github.com/zellij-org/zellij/blob/f3351f4f75dd1dc43f8808235553593bf87e68a0/assets/logo.png"></code>
-  <code><img height="50" src="./images/yabai.png"></code>
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png">
+  <img height="50" src="https://github.com/zellij-org/zellij/blob/f3351f4f75dd1dc43f8808235553593bf87e68a0/assets/logo.png">
+  <img height="50" src="./images/yabai.png">
 
 </p>
 ## Let's connect
