@@ -8,6 +8,45 @@
 - 👣 Stepping slowly into the world of **DevOps**
 - 🛠️ Constantly tweaking and optimizing my dev setup for **speed & efficiency**
 
+## Tech Stack
+
+<h2>Languages</h2>
+<p>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+</p>
+
+<h2>Databases & Storage</h2>
+<p>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/neo4j/neo4j.png"></code>  
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+</p>
+
+<h2>Backend & APIs</h2>
+<p>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>  
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png"></code>  
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/rest/rest.png"></code>
+</p>
+
+<h2>Other Tools</h2>
+<p>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png"></code>  
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/prometheus/prometheus.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png"></code>
+</p>
+
+<h2>Dev Setup</h2>
+<p>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png"></code>
+  <code><img height="50" src="https://github.com/zellij-org/zellij/blob/f3351f4f75dd1dc43f8808235553593bf87e68a0/assets/logo.png"></code>
+  <code><img height="50" src="https://github.com/koekeishiya/yabai/blob/527b0aa7c509637138d3d7468b63e3a9eb742d30/assets/icon/icon.png"></code>
+
+</p>
 ## Let's connect
 
 <p>
