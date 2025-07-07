@@ -14,7 +14,5 @@
 
 ## Let's connect 🤝🏻
 
-<p>
-  <a href="https://www.linkedin.com/in/raqeeb-shafeeque"><img src="./images/linkedin.svg", height="30", width="30"/></a>
-  <a href="https://x.com/raqeebshafeeq"><img src="./images/x.svg" height="30", width="30"/></a>
-</p>
+💼 [LinkedIn](https://www.linkedin.com/in/raqeeb-shafeeque)  
+🐦 [X (Twitter)](https://x.com/raqeebshafeeq)
