@@ -11,10 +11,10 @@
 ## Tech Stack ⚔️
 
 ```
-Golang        Python        Neo4j         Redis
-Elasticsearch PostgreSQL    GraphQL       gRPC
-REST          Git           Docker        Kubernetes
-Kafka         Prometheus    Grafana       NATS
+Golang           Python          Neo4j        Redis
+Elasticsearch    PostgreSQL      GraphQL      gRPC
+REST             Git             Docker       Kubernetes
+Kafka            Prometheus      Grafana      NATS
 ```
 
 ## Let's connect
