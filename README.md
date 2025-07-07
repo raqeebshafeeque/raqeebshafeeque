@@ -10,23 +10,7 @@
 
 ## Tech Stack ⚔️
 
-<p>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png", title="Golang">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png", title="Python">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/neo4j/neo4j.png", title="Neo4j">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png", title="Redis">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png", title="Elasticsearch">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png", title="PostgreSQL">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png",title="GraphQL">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png", title="gRPC">
-  <img height="30" src="./images/rest.png",title="REST">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png",title="Git">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png",title="Docker">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png",title="Kubernetes">
-  <img height="30" src="./images/kafka.svg",title="Kafka">
-  <img height="30" src="./images/prometheus.svg",title="Prometheus">
-  <img height="30" src="./images/grafana.svg",title="Grafana">
-</p>
+🚀 **Golang** • 🐍 **Python** • 🔗 **Neo4j** • ⚡ **Redis** • 🔍 **Elasticsearch** • 🐘 **PostgreSQL** • 📊 **GraphQL** • 🚀 **gRPC** • 🌐 **REST** • 📝 **Git** • 🐳 **Docker** • ☸️ **Kubernetes** • 🎯 **Kafka** • 📈 **Prometheus** • 📊 **Grafana**
 
 ## Let's connect 🤝🏻
 
