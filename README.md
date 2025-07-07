@@ -10,9 +10,14 @@
 
 ## Tech Stack ⚔️
 
-🚀 **Golang** • 🐍 **Python** • 🔗 **Neo4j** • ⚡ **Redis** • 🔍 **Elasticsearch** • 🐘 **PostgreSQL** • 📊 **GraphQL** • 🚀 **gRPC** • 🌐 **REST** • 📝 **Git** • 🐳 **Docker** • ☸️ **Kubernetes** • 🎯 **Kafka** • 📈 **Prometheus** • 📊 **Grafana**
+```
+Golang        Python        Neo4j         Redis
+Elasticsearch PostgreSQL    GraphQL       gRPC
+REST          Git           Docker        Kubernetes
+Kafka         Prometheus    Grafana       NATS
+```
 
-## Let's connect 🤝🏻
+## Let's connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/raqeeb-shafeeque)  
-🐦 [X (Twitter)](https://x.com/raqeebshafeeq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raqeeb-shafeeque)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/raqeebshafeeq)
